@@ -1,0 +1,14 @@
+RGB Color Codes
+
+0 - 255 - 203 - 1   Background
+
+0 - 227 - 181 - 1   Buttons
+
+#1ED2CC PLACEHOLDER BORDER
+
+#373737 LAYER
+
+#00B7B0 NAV PANAL
+
+
+
